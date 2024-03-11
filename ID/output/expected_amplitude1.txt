@@ -1,0 +1,12 @@
+2.60  0.294   NaN
+      0.297   NaN
+      0.329   NaN
+      0.328   NaN
+2.61  0.324   NaN
+               ..
+2.36  0.121   NaN
+      0.103   NaN
+2.34  0.104   NaN
+      0.116   NaN
+2.33  0.250   NaN
+Name: Angle_1, Length: 100, dtype: float64
